@@ -1,0 +1,10 @@
+C:\Users\Gustavo\AppData\Local\Temporary Projects\CodMW2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gustavo\AppData\Local\Temporary Projects\CodMW2\bin\Debug\CodMW2.exe
+C:\Users\Gustavo\AppData\Local\Temporary Projects\CodMW2\bin\Debug\CodMW2.pdb
+C:\Users\Gustavo\AppData\Local\Temporary Projects\CodMW2\obj\x86\Debug\CodMW2.exe
+C:\Users\Gustavo\AppData\Local\Temporary Projects\CodMW2\obj\x86\Debug\CodMW2.pdb
+C:\Users\Gustavo\documents\visual studio 2010\Projects\CodMW2\CodMW2\obj\x86\Debug\CodMW2.exe
+C:\Users\Gustavo\documents\visual studio 2010\Projects\CodMW2\CodMW2\obj\x86\Debug\CodMW2.pdb
+C:\Users\Gustavo\documents\visual studio 2010\Projects\CodMW2\CodMW2\bin\Debug\CodMW2.exe
+C:\Users\Gustavo\documents\visual studio 2010\Projects\CodMW2\CodMW2\bin\Debug\CodMW2.pdb
+C:\Users\Gustavo\documents\visual studio 2010\Projects\CodMW2\CodMW2\obj\x86\Debug\ResolveAssemblyReference.cache
